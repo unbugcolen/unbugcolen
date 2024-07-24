@@ -1,7 +1,7 @@
 - 👋 Hi, I’m colen
 - 👀 I’m interested in cycling、photography、animation
-- 🌱 I’m currently learning Vector Database
-- 💞️ I’m looking to collaborate on finance, education, live broadcast and ai. My full-time job is back-end development.
+- 🌱 I’m currently learning vector database
+- 💞️ I’m looking to collaborate on finance, education, live streaming and ai. My full-time job is backend development
 - 📫 My email: unbugcolen@gmail.com 
 
 <!---
